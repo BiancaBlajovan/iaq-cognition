@@ -152,7 +152,6 @@ If you use this dataset or code, please cite:
 B.-L. Blajovan, C. Stângaciu, D. Stanescu, R. Bogdan, and M. Marcu,
 "Air Quality Improvement and Cognitive Performance:
 A Multi-Sensor IoT Classroom Study,"
-in Proc. ICSTCC 2025, Timișoara, Romania.
 ```
 
 DOI: *to be assigned upon publication*
